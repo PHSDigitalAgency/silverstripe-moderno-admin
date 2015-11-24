@@ -2,3 +2,4 @@
 .komodotools/
 .DS_Store
 Thumbs.db
+.sass-cache

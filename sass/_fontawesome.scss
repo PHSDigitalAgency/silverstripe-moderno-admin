@@ -1,0 +1,229 @@
+@import url(font-awesome.min.css);
+
+.cms-login-status .logout-link:before
+{
+	content: "\f08b";
+
+	font-size: 16px;
+	font-family: "FontAwesome";
+}
+
+.cms-panel .cms-panel-toggle a span
+{
+	font-size: 0;
+	font-family: "FontAwesome";
+
+	padding-right: 4px;
+}
+
+.cms-menu .ss-ui-button.sticky-toggle > span
+{
+	font-size: 0;
+	font-family: "FontAwesome";
+}
+
+.cms-content-controls .icon-auto:before,
+.cms-content-controls .icon-edit:before,
+.cms-content-controls .icon-split:before,
+.cms-content-controls .icon-preview:before,
+.cms-content-controls .icon-desktop:before,
+.cms-content-controls .icon-tablet:before,
+.cms-content-controls .icon-mobile:before
+{
+	font-family: "FontAwesome";
+
+	background: none transparent;
+
+	text-align: center;
+	text-indent: 0;
+
+	font-size: 24px;
+	line-height: 24px;
+}
+
+.ui-tabs .ui-tabs-nav li.cms-tabset-icon a:before
+{
+	font-size: 18px;
+	line-height: 39px;
+	font-family: 'FontAwesome';
+}
+
+.field .chzn-container-multi .chzn-choices .search-choice .search-choice-close
+{
+	top: 3px;
+
+	font-size: 14px;
+	font-family: 'FontAwesome';
+
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+.field .chzn-container-single .chzn-single div b,
+.field .chzn-container-active .chzn-single div b
+.field .chzn-container-single .chzn-single-with-drop div b,
+.field .chzn-container-active .chzn-single-with-drop div b
+{
+	font-size: 0;
+	font-weight: 400;
+	font-family: 'FontAwesome';
+
+	line-height: 24px;
+
+	text-indent: 0;
+	text-align: center;
+
+	background: transparent none !important;
+}
+
+.cms-content-toolbar .chzn-container-single .chzn-single div b:before
+{
+	content: "\f0ab";
+
+	font-family: "FontAwesome";
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 30px;
+}
+
+.jstree-apple .jstree-no-checkboxes a .jstree-icon
+{
+	font-size: 14px;
+	font-family: 'FontAwesome';
+
+	text-align: center;
+
+	display: inline-block;
+
+	background: none transparent;
+}
+
+.jstree-apple a > .jstree-checkbox
+{
+	text-align: left;
+
+	font-size: 14px;
+	font-family: 'FontAwesome';
+
+	background: none transparent;
+}
+
+.jstree-apple .jstree-closed > ins,
+.jstree-apple .jstree-open > ins
+{
+	font-size: 18px;
+	font-family: 'FontAwesome';
+
+	text-align: right;
+
+	background: none transparent;
+}
+
+.icon
+{
+	text-indent: 0;
+
+	font-size: 14px;
+	font-family: "FontAwesome";
+
+	background: none !important;
+}
+
+.cms .ss-gridfield .grid-levelup a.list-parent-link:before
+{
+	content: "\f0aa ..";
+	font-family: 'FontAwesome';
+	font-size: 24px;
+	line-height: 24px;
+}
+
+.cms table.ss-gridfield-table tr th.col-Actions button.ss-ui-button:before,
+.cms table.ss-gridfield-table tr.filter-header th button.ss-ui-button:before
+{
+	font-size: 18px;
+	font-family: 'FontAwesome';
+}
+
+.cms table.ss-gridfield-table tbody td a.edit-link:before,
+.cms table.ss-gridfield-table tbody td a.view-link:before
+{
+	font-family: "FontAwesome";
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.cms table.ss-gridfield-table tbody td button.gridfield-button-delete span.ui-icon:before
+{
+	content: "\f056";
+	font-family: "FontAwesome";
+	font-size: 18px;
+	font-weight: 400;
+}
+
+
+.cms table.ss-gridfield-table tbody td.col-listChildrenLink .list-children-link
+{
+	font-size: 0px;
+	font-family: 'FontAwesome';
+
+	text-align: center;
+	text-indent: 0;
+
+	background: none transparent;
+}
+
+.ss-gridfield-orderable .col-reorder .handle
+{
+	text-align: right;
+	line-height: 32px;
+
+	font-size: 14px;
+	font-family: 'FontAwesome';
+}
+
+.cms .gridfield-better-buttons-prev:nth-child(1) .ui-button-text::before
+{
+	content: "\f0d9";
+
+	padding-right: 3px;
+
+	font-size: 12px;
+	font-family: 'FontAwesome';
+}
+
+.cms .gridfield-better-buttons-prev:nth-child(1) .ui-button-text::before
+{
+	content: "\f0d9";
+
+	padding-right: 3px;
+
+	font-size: 12px;
+	font-family: 'FontAwesome';
+}
+
+.ui-icon-circle-triangle-w,
+.ui-icon-circle-triangle-e
+{
+	font-size: 0;
+	font-weight: 400;
+	font-family: 'FontAwesome';
+
+	text-indent: 0;
+	text-align: center;
+
+	background: none transparent !important;
+}
+
+.ui-icon-triangle-1-e,
+.ui-icon-triangle-1-s,
+.ui-icon-triangle-1-n,
+.ui-icon-triangle-1-w
+{
+	font-size: 0;
+	font-weight: 400;
+	font-family: 'FontAwesome';
+
+	text-indent: 0;
+	text-align: right;
+
+	background: none transparent !important;
+}
